@@ -1,4 +1,8 @@
 _repo: Neville-Trueman-the-Pioneer-Preacher-a-tale-of-the-war-of-1812_6826
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Withrow, W. H. (William Henry)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2210'
     url: http://www.gutenberg.org/2009/agents/2210
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6826#Neville-Trueman-the-Pioneer-Preacher-a-tale-of-the-war-of-1812
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
